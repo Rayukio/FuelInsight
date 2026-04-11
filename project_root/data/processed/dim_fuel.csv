@@ -1,0 +1,15 @@
+fuelType,fuel_id
+Regular,0
+Premium,1
+Diesel,2
+CNG,3
+Gasoline or natural gas,4
+Gasoline or E85,5
+Electricity,6
+Gasoline or propane,7
+Premium or E85,8
+Midgrade,9
+Premium Gas or Electricity,10
+Regular Gas and Electricity,11
+Premium and Electricity,12
+Regular Gas or Electricity,13
