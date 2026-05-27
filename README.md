@@ -5,8 +5,8 @@
 Este projeto visa construir um pipeline de ETL para o dataset 'Fuel Economy Data: How Efficient Are Today’s Cars?' e desenvolver modelos preditivos para estimar o consumo combinado de combustível de veículos. O objetivo é transformar dados brutos em um modelo dimensional (Star Schema) e, em seguida, utilizar esses dados processados para treinar e avaliar modelos de regressão, comparando seus desempenhos para identificar o mais adequado para a previsão do consumo de combustível.
 
 ## 👥 Equipe
-* **Ivan Luiz Picolotte dos Santos** - RM: [082210015] 
-* **Rafael Yukio Ivasa** - RA: [082210011] 
+* **Ivan Luiz Picolotte dos Santos** - RA: 082210015
+* **Rafael Yukio Ivasa** - RA: 082210011 
 
 ## Tabela Comparativa de Modelos
 
